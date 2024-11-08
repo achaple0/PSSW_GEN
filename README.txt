@@ -83,9 +83,4 @@ Contributions are welcome! Please open a pull request or submit an issue for any
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for more details. 
-
---- 
-
 With this README, your program will be well-documented and ready for sharing!
